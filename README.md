@@ -8,7 +8,7 @@ document.body.style.backgroundColor="pink";
 'pink'
 let img = document.createElement("img");
 undefined
-img.src = "https://images.contentstack.io/v3/assets/bltcedd8dbd5891265b/blt5f18c2119ce26485/6668df65db90945e0caf9be6/beautiful-flowers-lotus.jpg?q=70&width=3840&auto=webp";
+img.src = "[https://images.contentstack.io/v3/assets/bltcedd8dbd5891265b/blt5f18c2119ce26485/6668df65db90945e0caf9be6/beautiful-flowers-lotus.jpg?q=70&width=3840&auto=webp](https://hanablogs.azurewebsites.net/Content/BlogUpload/202402291148547768.jpg)";
 img.style.width = "100vw";
 '100vw'
 img.style.height = "50vh";
@@ -20,7 +20,7 @@ img.style.display = "block";
 img.style.margin = "0 auto";
 '0 auto'
 document.body.appendChild(img);
-<img src=​"https:​/​/​images.contentstack.io/​v3/​assets/​bltcedd8dbd5891265b/​blt5f18c2119ce26485/​6668df65db90945e0caf9be6/​beautiful-flowers-lotus.jpg?q=70&width=3840&auto=webp" style=​"width:​ 100vw;​ height:​ 50vh;​ object-fit:​ cover;​ display:​ block;​ margin:​ 0px auto;​">​
+<img src=​"[https:​/​/​images.contentstack.io/​v3/​assets/​bltcedd8dbd5891265b/​blt5f18c2119ce26485/​6668df65db90945e0caf9be6/​beautiful-flowers-lotus.jpg?q=70&width=3840&auto=webp](https://hanablogs.azurewebsites.net/Content/BlogUpload/202402291148547768.jpg)" style=​"width:​ 100vw;​ height:​ 50vh;​ object-fit:​ cover;​ display:​ block;​ margin:​ 0px auto;​">​
 
 
 let heading = document.createElement("h1");
@@ -56,8 +56,8 @@ para.style.lineHeight = "1.6";
 '1.6'
 document.body.appendChild(para);
 <p style=​"color:​ rgb(221, 221, 221)​;​ font-size:​ 1.2rem;​ text-align:​ center;​ max-width:​ 600px;​ margin:​ 20px auto;​ line-height:​ 1.6;​">​Octobers birth flowers are the Marigold and Cosmos.​</p>​
-para.textContent = "The October birth flowers are marigold and cosmos. With their beautiful autumnal colours and spicy scent, marigolds are extremely fitting for those celebrating their birthday in October and a favourite of many gardeners. Marigolds have a really long history behind them.";
-'The October birth flowers are marigold and cosmos. With their beautiful autumnal colours and spicy scent, marigolds are extremely fitting for those celebrating their birthday in October and a favourite of many gardeners. Marigolds have a really long history behind them.'
+para.textContent = "The March birth flowers are daffodils and jonquils. These cheerful, yellow flowers are known for symbolizing rebirth, new beginnings, and unparalleled love, reflecting the start of spring in many parts of the world. Daffodils are particularly associated with hope and new opportunities. ";
+The March birth flowers are daffodils and jonquils. These cheerful, yellow flowers are known for symbolizing rebirth, new beginnings, and unparalleled love, reflecting the start of spring in many parts of the world. Daffodils are particularly associated with hope and new opportunities. 
 para.style.color = "black";
 'black'
 
