@@ -1,3 +1,5 @@
+window.open();
+
 document.body.style.backgroundColor=pink;
 VM151:1 Uncaught ReferenceError: pink is not defined
     at <anonymous>:1:37
